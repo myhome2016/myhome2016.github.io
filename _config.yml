@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "肖惠萍的博客"
+title: "我家的博客"
 description: "Collection of everythings I want to record down especially for tech"
 logo: logo.jpg # 120x120 px default image used for Twitter summary card
 teaser: /teaser/default.jpg # 400x250 px default teaser image used in image archive grid
@@ -30,15 +30,15 @@ gems:
 
 # Site owner
 owner: 
-  name: xiaohuiping(肖惠萍)
-  email: xiaohuiping2016@sina.cn
-  twitter: xiaohuiping
+  name: myhome(家)
+  email: myhome2016@sina.cn
+  twitter: myhome2016
   google:
     ad-client: "ca-pub-5984522345984184"
     ad-slot: "9439014959"
   bio: 
   avatar: logo.jpg # 160x160 px image for author byline
-disqus-shortname: xiaohuiping
+disqus-shortname: myhome
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
