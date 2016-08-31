@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Home
+- title: 首页
   url: /
   excerpt: 
   image: 
@@ -10,3 +10,85 @@
 
 - title: 英语
   url: /english/
+
+- title: 旅游攻略及注意事项
+  url: /trip/
+
+- title: 如何学英语出版
+  url: /englishbook/
+
+- title: 教你画图出版
+  url: /picturebook/
+
+- title: 儿童编程出版
+  url: /programmebook/
+
+- title: 画图教案
+  url: /teachgimp/
+
+- title: 编程教案
+  url: /teachprogramme/
+
+- title: <凡凡>单词记忆教案
+  url: /teachword/
+
+- title: <凡凡>51talk记忆教案
+  url: /teachff51talk/
+
+- title: <凡凡>希望之星教案
+  url: /teachffxiwangstar/
+
+- title: <凡凡>语文教案
+  url: /teachffchinese/
+
+- title: <凡凡>数学教案
+  url: /teachffmath/
+
+- title: <凡凡>英语教案
+  url: /teachffenglish/
+
+- title: <凡凡>科学教案
+  url: /teachffkexue/
+
+- title: <凡凡>奥数教案
+  url: /teachffaoshu/
+
+- title: <凡凡>历史教案
+  url: /teachffhistory/
+
+- title: <凡凡>文言文教案
+  url: /teachffwyw/
+
+- title: <凡凡>记忆教案
+  url: /teachffmemory/
+
+- title: <齐齐>语文教案
+  url: /teachqqchinese/
+
+- title: <齐齐>数学教案
+  url: /teachqqmath/
+
+- title: <齐齐>英语教案
+  url: /teachqqenglish/
+
+- title: <齐齐>科学教案
+  url: /teachqqkexue/
+
+- title: <齐齐>奥数教案
+  url: /teachqqaoshu/
+
+- title: <齐齐>历史教案
+  url: /teachqqhistory/
+
+- title: <齐齐>记忆教案
+  url: /teachqqmemory/
+
+- title: <齐齐>单词记忆教案
+  url: /teachqqword/
+
+- title: <齐齐>51talk记忆教案
+  url: /teachqq51talk/
+
+- title: <齐齐>文言文教案
+  url: /teachqqwyw/
+
